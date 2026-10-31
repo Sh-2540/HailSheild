@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive CTO Technical Blueprint and Architectural Specification for KHETKAVACH – HailShield. Covers real farmer UX, multi-farm/plot models, crop-specific canopy engineering, IoT/ESP32 HAL, motor safety state machine, database schemas, security, technical risks, unrealistic assumptions, and a 3-phase deployment roadmap.",
+  "updatedAt":  "2026-10-30T08:44:08.746099145Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

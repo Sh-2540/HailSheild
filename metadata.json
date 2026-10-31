@@ -1,0 +1,8 @@
+{
+  "name": "Remix KHETKAVACH – HailShield Agricultural Protection",
+  "description": "Intelligent multi-farm management and motorized retractable crop-protection canopy platform with real weather monitoring, IoT sensor integration, and row-wise hail defense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
